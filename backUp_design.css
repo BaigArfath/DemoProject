@@ -1,0 +1,88 @@
+.fakeimg {
+    height: 400px;
+    background: #f1f1c1;
+  }
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size:15px;
+font-style:normal;
+}
+
+input[type=submit] {
+  float:right;
+  width: 25%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 0 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  
+}
+
+#t1{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:350px;
+	height:400px;
+}
+td{
+	padding:15px;
+	text-align:center;
+}
+#loginForm{
+  margin:auto;
+  float:center;
+  positon:fixed;
+  bottom:300px;
+  border-radius: auto;
+  background-color: #f2f2f2;
+  width: 30%;
+  height:100%;
+  padding: 20px;
+}
+h3{
+text-align:center;
+font-size:20px;
+font-style:normal;
+
+
+logo{
+	width="350";
+	height="120";
+	position:fixed;
+	float:top-left;
+}
+
+#transactionForm{
+	 margin:auto;
+  top:0%;
+	bottom:500px;
+  background-color: #dddddd;
+  width: 30%;
+  height:20%;
+  padding: 20px;
+}
+
+.two-col{
+	overflow:hidden;
+}
+.two-col .col1, .two-col .col2{
+width:49%;
+}
+.two-col .col{
+	float:left;
+}
+.two-col .col1{
+	float:right;
+}
+.two-col label{
+	display:block;
+}
+
